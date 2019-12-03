@@ -2,8 +2,8 @@
 
 # Materiais
 
--Arduino;
--Fio;
--Capacitor;
+-Arduino; <br>
+-Fio; <br>
+-Capacitor; <br>
 
 # Código Fonte:
