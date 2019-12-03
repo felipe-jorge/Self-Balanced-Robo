@@ -29,7 +29,7 @@
   
   </ul>
 
-  <p><h1><strong>Codigo</strong></h1>
+  <p><h1><strong>Código</strong></h1>
 
   lalalalalalalalalallalalal<br>
   ahfadshfaskdhfdsjfhsjg<br>
