@@ -8,7 +8,7 @@
     <meta name="description" content="Projeto : megazord">
 
     
-<title>Página do Projeto| balao</title>
+    <title>Página do Projeto| balao</title>
 
 
   </head>
