@@ -26,7 +26,7 @@
   
 </ul>
 
-<p><h1><strong>codigo<h1></strong>
+<p><h1><strong>codigo</strong><h1>
 
   lalalalalalalalalallalalal<br>
   ahfadshfaskdhfdsjfhsjg<br>
