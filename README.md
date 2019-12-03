@@ -18,15 +18,18 @@
 
 
 
-  <p><strong><h1>Mmateriais</h1></strong></p>
+  <p><strong><h1>Materiais</h1></strong></p>
 
   <ul>
-    <li>Fio</li>
-    <li>pao</li>
-
+    <li>Fios</li>
+    <li>Arduino Uno</li>
+    <li>MPU 6050</li>
+    <li>Ponte H</li>  
+    <li>Dois Motores com Rodas</li>
+  
   </ul>
 
-  <p><h1><strong>codigo</strong></h1>
+  <p><h1><strong>Codigo</strong></h1>
 
   lalalalalalalalalallalalal<br>
   ahfadshfaskdhfdsjfhsjg<br>
