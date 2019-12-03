@@ -3,9 +3,10 @@ layout: default
 title: Pagina do kalango
 ---
 
-### Robô
+ Robô
+ --------
 
-# Materiais
+**Materiais**
 
 -Arduino; <br>
 -Fio; <br>
