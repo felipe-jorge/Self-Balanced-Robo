@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
 
   <head>
@@ -8,7 +8,7 @@
     <meta name="description" content="Projeto : megazord">
 
     
-    <title>Página do Projeto| balao</title>
+   <title>Página do Projeto| balao</title>
 
 
   </head>
@@ -18,21 +18,21 @@
 
 
 
-    <p><strong>Mmateriais</strong></p>
+  <p><strong>Mmateriais</strong></p>
 
-    <ul>
-      <li>Fio</li>
-      <li>pao</a></li>
+  <ul>
+    <li>Fio</li>
+    <li>pao</a></li>
 
-    </ul>
+  </ul>
 
-    <p><h1><strong>codigo</strong></h1>
+  <p><h1><strong>codigo</strong></h1>
 
-      lalalalalalalalalallalalal<br>
-      ahfadshfaskdhfdsjfhsjg<br>
-      oioiiiii<br>
+    lalalalalalalalalallalalal<br>
+    ahfadshfaskdhfdsjfhsjg<br>
+    oioiiiii<br>
 
-    </p>
+  </p>
 
 
   
