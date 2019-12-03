@@ -35,6 +35,10 @@
   ahfadshfaskdhfdsjfhsjg<br>
   oioiiiii<br>
 
+  <p><strong><h1>Materiais</h1></strong></p>
+ <p> O robô funciona como um pêndulo invertido, ou seja, quando começa a oscilar não tende ao equilíbrio estável na sua posição inicial, mas à instabilidade. Para que ele permaneça, então, em seu estado inicial há de se reconhecer a velocidade com que ele cai e a inclinação no momento da queda e, com esses dados, acionar o motor e fazê-lo acelerar no sentido da queda para compensá-la e equilibrar o robô. 
+	Os fatores velocidade de queda e inclinação são obtidos a partir do MPU 6050 que nada mais é um acelerômetro e giroscópio com atuação nos três eixos (pitch, roll e yaw). Após a análise dos dados recebidos do MPU, o arduino envia um sinal para os motores acionando-os e mantendo o robô equilibrado. </p>
+
   </p>
 
 
